@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bc26f6cb-dd87-4eb0-b00a-c2f595524ec5",
+    "mobile": "0988888888",
+    "otpExpires": 1734923249786,
+    "otpCode": "579366",
+    "email": "example@gmail.com",
+    "fullName": "Donald Trump",
+    "gender": "male",
+    "birthDate": "2022-10-02",
+    "nationalCode": 3730798568,
+    "payment": {
+      "shaba_code": "string",
+      "debitCard_code": "string",
+      "accountIdentifier": "string"
+    }
+  }
+]
